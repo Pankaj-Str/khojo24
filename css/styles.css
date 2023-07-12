@@ -11461,7 +11461,7 @@ position:absolute;
     color:rgb(191, 166, 26);
     
 }
-hr{
+.hr{
     /* display: block; */
     background-color:#15a782;
     height:5px;
