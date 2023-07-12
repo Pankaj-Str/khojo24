@@ -11418,3 +11418,53 @@ video.bg-video {
     width: auto;
   }
 }
+
+
+
+
+/* about_us start */
+
+#nav{
+    width:100%;
+    position:fixed;
+    z-index: 1;
+ 
+}
+#logo {
+    color:gold;
+}
+#logo:hover{
+    text-transform: uppercase;
+    text-align:right;
+    font-weight:bolder;
+    text-decoration-line: underline;
+  text-decoration-style: double;
+  text-decoration-color: greenyellow;
+    transition: font-weight 2s;
+    transition: text-decoration 2s;
+    transition-timing-function: ease-in-out;
+}
+#profile{
+    border-radius: 50%;
+    width:370px;
+    height:500px;
+}
+#profile_resize{
+position:absolute;
+ border-radius: 50%;
+    top:300px;
+    width:200px;
+    height:200px;
+}
+#h5 { 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(191, 166, 26);
+    
+}
+hr{
+    /* display: block; */
+    background-color:#15a782;
+    height:5px;
+    border-radius: 8px;
+}
+/*about_us end  */
